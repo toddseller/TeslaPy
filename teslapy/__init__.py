@@ -6,7 +6,7 @@ for reuse and refreshed automatically. The vehicle option codes are loaded from
 
 # Author: Tim Dorssers
 
-__version__ = '2.8.0'
+__version__ = '1.0.1'
 
 import os
 import ast
